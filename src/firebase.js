@@ -1,7 +1,7 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // const firebaseConfig = {
 //     apiKey: "AIzaSyAdstwVbll7Kz126zBX-zjCjG65HOTj5bk",
-//     authDomain: "todo-app-cp-303cc.firebaseapp.com",
+//     authDomain: "todo-app-cp-303cc.firebaseqapp.com",
 //     projectId: "todo-app-cp-303cc",
 //     storageBucket: "todo-app-cp-303cc.appspot.com",
 //     messagingSenderId: "927138404380",
@@ -13,7 +13,7 @@ import firebase from 'firebase'
 
 const firebaseApp = firebase.initializeApp({
     apiKey: "AIzaSyAdstwVbll7Kz126zBX-zjCjG65HOTj5bk",
-        authDomain: "todo-app-cp-303cc.firebaseapp.com",
+        authDomain: "todo-app-cp-303cc.firebaseqapp.com",
         projectId: "todo-app-cp-303cc",
         storageBucket: "todo-app-cp-303cc.appspot.com",
         messagingSenderId: "927138404380",
